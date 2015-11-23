@@ -1,4 +1,4 @@
-# wepatest_framework
-WEPATest Framework and Documentation
+# wepatest
+WEPATEST Framework and Documentation
 
-https://github.com/freddyvega/wepatest_framework/wiki
+https://github.com/freddyvega/wepatest/wiki

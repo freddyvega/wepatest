@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone.jar -role node -nodeConfig x64Node.json -Dwebdriver.ie.driver=C:\\Selenium\\IEDriverServer32.exe

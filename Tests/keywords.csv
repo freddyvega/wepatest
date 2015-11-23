@@ -1,0 +1,4 @@
+goto_page,https://www.testingbyexample.com/,,,,,
+do_action,send_text,input,contract_number,webapp,file_claim,212521
+do_action,send_text,input,property_zip_code,webapp,file_claim,33016
+do_action,click_on,button,place_your_claim,webapp,file_claim,
